@@ -23,7 +23,7 @@ seed:
       repository: incubator-kie-drools
       author:
         name: test-kie-pipelines
-        credentials_id: ASF_Cloudbees_Jenkins_ci-builds
+        credentials_id: test-kie-pipelines
         push:
           credentials_id: test-kie-pipelines-push
       branch: main
